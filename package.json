@@ -1,0 +1,15 @@
+{
+  "name": "hackathon-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alishba Naseem",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.4"
+  }
+}
